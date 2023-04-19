@@ -19,13 +19,21 @@ PolyBPMN plugin for IntelliJ IDEA is a visualiser for BPMN diagrams with navigat
 - Open BPMN file with extension *.bpmn, *.bpmn.xml *.bpmn20.
 
 ## Plugin website
+
 https://polybpmn.com
 
 ## Get plugin
-https://plugins.jetbrains.com/
+
+https://plugins.jetbrains.com/plugin/21361-polybpmn-visualizer
 
 ## Guides
 Watch all plugin videos at https://www.youtube.com/channel/UCPm7EJFIXCrklfSYBpBPccg
 
 ### PolyBPMN plugin advantages
 [![Youtube video preview](https://user-images.githubusercontent.com/97594408/229522927-b9a28272-20e5-4669-8773-f556cca42638.jpg)](https://www.youtube.com/watch?v=IKknVpB7DF0&t=2s)
+
+## Contact us
+
+E-mail: polybpmn@gdnext.com
+
+Company website: https://gdnext.com
