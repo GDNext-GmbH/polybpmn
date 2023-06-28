@@ -17,6 +17,7 @@ PolyBPMN plugin for IntelliJ IDEA is a visualiser for BPMN diagrams with navigat
 - Embedded diagram window with controls inside XML file editor.
 - Support for three editing modes: BPMN file, BPMN modeller, and split view.
 - Open BPMN file with extension *.bpmn, *.bpmn.xml *.bpmn20.
+- Swimpools and Swimlanes
 
 ## Plugin website
 
@@ -31,6 +32,10 @@ Watch all plugin videos at https://www.youtube.com/channel/UCPm7EJFIXCrklfSYBpBP
 
 ### PolyBPMN plugin advantages
 [![Youtube video preview](https://user-images.githubusercontent.com/97594408/229522927-b9a28272-20e5-4669-8773-f556cca42638.jpg)](https://www.youtube.com/watch?v=IKknVpB7DF0&t=2s)
+
+### Swimpools and Swimlanes (commencing v.1.2)
+[![Youtube video preview7](https://github.com/GDNext-GmbH/polybpmn/assets/97594408/2e5e754d-4c90-4d9c-aa2a-d9b1327e7eed)](https://www.youtube.com/watch?v=tM-67w9QIBI)
+
 
 ## Contact us
 
